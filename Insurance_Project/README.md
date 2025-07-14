@@ -1,4 +1,4 @@
-# [Your Console Project Title]
+# Insurance project
 
 ## Project Description
 This project represents [describe the progression from your previous work], focused on [main focus of console analysis] using [your dataset description].
@@ -26,7 +26,10 @@ This project represents [describe the progression from your previous work], focu
 - [Any new skills/techniques beyond basic pandas]
 
 ## Visuals
-[Add screenshots of your key visualizations here]
+![Boxplot](Screenshots/Screenshot_(55).PNG)
+![Feature importances LR](Screenshots/Screenshot_(56).PNG)
+![Feature importances XGB](Screenshots/Screenshot_(57).PNG)
+![Feature importances RF](Screenshots/Screenshot_(58).PNG)
 
 ## Conclusion
 [Your findings about console popularity and advertisement recommendations, plus skills gained]
