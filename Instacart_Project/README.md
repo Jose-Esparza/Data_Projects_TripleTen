@@ -26,10 +26,10 @@ This project represents one of my first data science projects, focused on practi
 - Practiced joining multiple datasets together
 
 ## Visuals
-![Time of day customers shop](Screenshots/Project_screenshots.png)
-![Days between orders](Screenshots/Screenshot (43).png)
-![Distribution](Screenshots/Screenshot (44).png)
-![Number of items bought per order](Screenshots/Screenshot (45).png)
+![Time of day customers shop](Screenshots/Project_screenshots.PNG)
+![Days between orders](Screenshots/Screenshot_(43).PNG)
+![Distribution](Screenshots/Screenshot_(44).PNG)
+![Number of items bought per order](Screenshots/Screenshot_(45).PNG)
 
 ## Conclusion
 This project served as valuable practice in fundamental data science techniques. Through working with real Instacart data, I gained hands-on experience with:
