@@ -26,7 +26,10 @@ This project represents [describe the progression from your previous work], focu
 - [Any new skills/techniques beyond basic pandas]
 
 ## Visuals
-[Add screenshots of your key visualizations here]
+![AG Concentration](Screenshots/Screenshot_(51).PNG)
+![PB Concentration](Screenshots/Screenshot_(52).PNG)
+![AU Concentration](Screenshots/Screenshot_(53).PNG)
+![Comparison](Screenshots/Screenshot_(54).PNG)
 
 ## Conclusion
 [Your findings about console popularity and advertisement recommendations, plus skills gained]
