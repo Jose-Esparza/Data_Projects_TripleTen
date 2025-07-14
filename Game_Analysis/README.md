@@ -26,7 +26,10 @@ This project represents [describe the progression from your previous work], focu
 - [Any new skills/techniques beyond basic pandas]
 
 ## Visuals
-[Add screenshots of your key visualizations here]
+![Overall Sales](Screenshots/Screenshot_(47).PNG)
+![Genre Vs Sales](Screenshots/Screenshot_(48).PNG)
+![ESRB ratings Vs sales by region](Screenshots/Screenshot_(49).PNG)
+![Top Genre Per Region](Screenshots/Screenshot_(50).PNG)
 
 ## Conclusion
 [Your findings about console popularity and advertisement recommendations, plus skills gained]
